@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @JoelGarcia99
-- 👀 I’m interested in backend techologies and artificial intelligence
-- 🌱 I’m currently learning Rust programming language and Deep Learning
-- 💞️ I’m looking to collaborate on open source projects
+- 👨‍💻 Backend developer
+- 📈 Data Scientist
+- 🚀 Focused on building blazingly fast services
 
 
 <!---
